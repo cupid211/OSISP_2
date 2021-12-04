@@ -1,0 +1,8 @@
+﻿  sprite.cpp
+D:\Жека\ОСиСП\Sprite\Sprite\sprite.cpp(101,39): warning C4244: -=: преобразование "FLOAT" в "LONG", возможна потеря данных
+D:\Жека\ОСиСП\Sprite\Sprite\sprite.cpp(102,40): warning C4244: -=: преобразование "FLOAT" в "LONG", возможна потеря данных
+D:\Жека\ОСиСП\Sprite\Sprite\sprite.cpp(108,29): warning C4244: =: преобразование "LONG" в "FLOAT", возможна потеря данных
+D:\Жека\ОСиСП\Sprite\Sprite\sprite.cpp(109,29): warning C4244: =: преобразование "LONG" в "FLOAT", возможна потеря данных
+D:\Жека\ОСиСП\Sprite\Sprite\sprite.cpp(134,24): warning C4244: =: преобразование "LONG" в "FLOAT", возможна потеря данных
+D:\Жека\ОСиСП\Sprite\Sprite\sprite.cpp(135,25): warning C4244: =: преобразование "LONG" в "FLOAT", возможна потеря данных
+  Sprite.vcxproj -> D:\Жека\ОСиСП\Sprite\x64\Debug\Sprite.exe
